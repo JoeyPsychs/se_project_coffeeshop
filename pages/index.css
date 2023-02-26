@@ -103,7 +103,7 @@
 
 .header__paragraph {
   margin: 0;
-  font-weight: 500px;
+  font-weight: 500;
   color: #838383;
 }
 
@@ -122,14 +122,14 @@
   min-width: 1100px;
   max-width: 1600px;
   margin: 0 auto;
-  padding: 0;
+  padding: 30px 80px 0 80px;
   display: flex;
   flex-direction: column;
 }
 
 .recipes__title {
   max-width: 580px;
-  margin: 100px 0 0 80px;
+  margin-top: 100px;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
@@ -138,7 +138,7 @@
 
 .recipes__subtitle {
   max-width: 438px;
-  margin: 24px 0 0 80px;
+  margin-top: 24px;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
