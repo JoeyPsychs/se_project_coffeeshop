@@ -224,6 +224,10 @@
   transition: smooth;
 }
 
+.form__label-checkbox {
+  align-self: center;
+}
+
 .form__input-checkbox {
   border-radius: 2px;
   background-color: #2F80ED;
@@ -231,5 +235,4 @@
   margin: 24px 12px 0 0;
   height: 20px;
   width: 20px;
-  align-items: center;
 }
