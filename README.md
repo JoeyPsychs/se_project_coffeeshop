@@ -13,4 +13,4 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I would like to add another couple forms for a membership program. One to sign-up and another to sign-in.
