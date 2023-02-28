@@ -13,6 +13,7 @@
   padding-bottom: 40px;
   position: relative;
   box-sizing: border-box;
+  z-index: 1;
 }
 
 .header__title {
@@ -41,10 +42,11 @@
 }
 
 .header__image {
-  z-index: 1;
+  z-index: -1;
   position: absolute;
-  max-width: 636px;
-  top: 135px;
+  height: 646px;
+  width: 568px;
+  top: 124px;
   right: 5px;
 }
 

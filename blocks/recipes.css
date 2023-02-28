@@ -4,10 +4,7 @@
   background-size: cover;
   background-position: center;
   background-color: #0a2750;
-  min-width: 1100px;
-  max-width: 1600px;
-  margin: 0 auto;
-  padding: 30px 80px 0;
+  padding: 0 80px;
   display: flex;
   flex-direction: column;
 }
@@ -35,6 +32,7 @@
   display: flex;
   gap: 40px;
   margin: 80px auto 215px;
+  flex-wrap: nowrap;
 }
 
 .recipes__video-caption {
@@ -44,4 +42,5 @@
   font-size: 20px;
   line-height: 30px;
   color: #fff;
+  margin: 24px 0 0;
 }
