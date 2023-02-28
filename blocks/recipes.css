@@ -7,6 +7,7 @@
   padding: 0 80px;
   display: flex;
   flex-direction: column;
+  color: #fff;
 }
 
 .recipes__title {
@@ -15,7 +16,6 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  color: #fff;
 }
 
 .recipes__subtitle {
@@ -24,7 +24,6 @@
   font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
-  color: #fff;
 }
 
 .recipes__videos {
